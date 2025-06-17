@@ -1,3 +1,36 @@
-﻿# RandomDogImageProject
+# 🐶 RandomDogImageProject
 
-RandomDogImageProject is a beginner-friendly web app that shows a random dog image each time the user clicks a button. The app uses Axios to send API requests to a public dog image API and updates the DOM with the received image. This project was built to strengthen my understanding of API integration, asynchronous JavaScript (async/await), and interactive UI design.
+**RandomDogImageProject** is a simple and interactive web app that fetches and displays a random dog image every time the user clicks a button. This project was created to practice **API requests**, **handling JSON responses**, and **dynamic DOM manipulation** using **Axios** and **JavaScript**.
+
+---
+
+## 🚀 Live Demo
+
+👉 [View on GitHub Pages](https://dnyanesh3256.github.io/RandomDogImageProject/)
+
+---
+
+## ⚙️ Features
+
+✅ Fetches random dog images from a public API  
+✅ Interactive button to load new dog images  
+✅ Responsive design with a clean UI  
+✅ Uses **Axios** for API requests  
+✅ Great for practicing API integration  
+
+---
+
+## 📦 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Axios**
+
+---
+
+## 📡 API Used
+
+- [Dog CEO's Dog API](https://dog.ceo/dog-api/)
+
+---
